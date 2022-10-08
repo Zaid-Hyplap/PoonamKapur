@@ -1,0 +1,25 @@
+.live-box {
+    margin: 3rem;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    background-color: red;
+    border-radius: 50%;
+    font: 3rem sans-serif;
+}
+
+.off-box {
+    margin: 3rem;
+    width: 50px;
+    height:
+        50px;
+    text-align: center;
+    background-color: green;
+    border-radius: 50%;
+    font: 3rem sans-serif;
+}
+
+p#random {
+    margin: 4rem;
+    font: 3rem sans-serif;
+}
